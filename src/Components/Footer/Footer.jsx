@@ -88,7 +88,11 @@ const Footer = () => {
 
                             {/* Address (fake)*/}
                             <address>
+<<<<<<< HEAD
                                 <LocationOn fontSize='inherit' />Parrys, Chennai, Tamil Nadu
+=======
+                                <LocationOn fontSize='inherit' />Parrys, Chenaii, Tamil Nadu
+>>>>>>> 480ce6e686cffd835c40dc0a08d45146cf3a5084
                             </address>
                         </div>
                     </div>
