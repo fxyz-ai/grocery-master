@@ -77,18 +77,18 @@ const Footer = () => {
                         <h3 className='xl:text-xl sm:text-lg text-base font-semibold tracking-wider'>Contact Us</h3>
                         <div className='sm:space-y-2 space-y-1.5 xl:text-base text-sm'>
                             {/* Phone (fake) */}
-                            <a className='block text-sm sm:text-base hover:underline' href="tel:+1 (406) 555-0120">
-                                <Phone fontSize='inherit' /> +1 (406) 555-0120
+                            <a className='block text-sm sm:text-base hover:underline' href="tel:+91 8960537710">
+                                <Phone fontSize='inherit' /> +91 8960537710
                             </a>
 
                             {/* Email */}
-                            <a className='block text-sm sm:text-base hover:underline' href="mailto:hasan.dev1@gmail.com">
-                                <Mail fontSize='inherit' /> developer@gmail.com
+                            <a className='block text-sm sm:text-base hover:underline' href="mailto:grocery@gmail.com">
+                                <Mail fontSize='inherit' /> grocery@gmail.com
                             </a>
 
                             {/* Address (fake)*/}
                             <address>
-                                <LocationOn fontSize='inherit' />123 Main Street, New York
+                                <LocationOn fontSize='inherit' />Parrys, Chenaii, Tamil Nadu
                             </address>
                         </div>
                     </div>
